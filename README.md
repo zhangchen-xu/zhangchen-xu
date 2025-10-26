@@ -1,6 +1,6 @@
 ## Hi there 👋. It's Zhangchen Xu here.
 
-I am a third-year PhD student at the University of Washington, advised by Prof. Radha Poovendran. I work on LLM related topics (e.g., safety, alignment, reasoning, post-training, synthetic data).
+I am a third-year PhD student at [Network Security Lab](https://labs.ece.uw.edu/nsl/faculty/radha/), University of Washington, advised by Prof. Radha Poovendran. I work on LLM related topics (e.g., safety, alignment, reasoning, post-training, synthetic data).
 
 <div align="center">
 
